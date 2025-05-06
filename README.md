@@ -1,0 +1,1 @@
+This is a small final project that i made in the course Design and development of information systems that talks about wine trading company, that want to develop inventory management, customer management, and order processing and delivery .
