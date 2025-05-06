@@ -1,0 +1,64 @@
+<wineryData>
+    <producers>
+        <producer>
+            <id>P025</id>
+            <name>Silver Oak Winery</name>
+            <contactPhone>052-4567890</contactPhone>
+            <address>Napa Valley, USA</address>
+            <email>info@silveroakwinery.com</email>
+        </producer>
+        <producer>
+            <id>P026</id>
+            <name>Ridge Vineyards</name>
+            <contactPhone>054-9876543</contactPhone>
+            <address>Sonoma County, USA</address>
+            <email>contact@ridgevineyards.com</email>
+        </producer>
+    </producers>
+    <wines>
+        <wine>
+            <catalogNumber>21</catalogNumber>
+            <producerId>P025</producerId>
+            <name>Merlot Reserve</name>
+            <productionYear>2020</productionYear>
+            <pricePerBottle>35</pricePerBottle>
+            <sweetnessLevel>Dry</sweetnessLevel>
+            <description>Elegant red wine with plum and chocolate notes.</description>
+            <productImage>merlot_reserve.jpg</productImage>
+            <wineTypeId>011</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>22</catalogNumber>
+            <producerId>P025</producerId>
+            <name>Chardonnay Estate</name>
+            <productionYear>2021</productionYear>
+            <pricePerBottle>28</pricePerBottle>
+            <sweetnessLevel>Semi-Dry</sweetnessLevel>
+            <description>Rich and creamy white wine with citrus and vanilla hints.</description>
+            <productImage>chardonnay_estate.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>23</catalogNumber>
+            <producerId>P026</producerId>
+            <name>Zinfandel Heritage</name>
+            <productionYear>2019</productionYear>
+            <pricePerBottle>40</pricePerBottle>
+            <sweetnessLevel>Dry</sweetnessLevel>
+            <description>Bold red wine with spicy blackberry and pepper flavors.</description>
+            <productImage>zinfandel_heritage.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>24</catalogNumber>
+            <producerId>P026</producerId>
+            <name>Riesling Classic</name>
+            <productionYear>2022</productionYear>
+            <pricePerBottle>22</pricePerBottle>
+            <sweetnessLevel>Semi-Sweet</sweetnessLevel>
+            <description>Refreshing white wine with floral aromas and citrus undertones.</description>
+            <productImage>riesling_classic.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+    </wines>
+</wineryData>

@@ -1,0 +1,64 @@
+<wineryData>
+    <producers>
+        <producer>
+            <id>P020</id>
+            <name>Tabor Winery</name>
+            <contactPhone>050-5678901</contactPhone>
+            <address>Kfar Tabor, Israel</address>
+            <email>taborwines@gmail.com</email>
+        </producer>
+        <producer>
+            <id>P027</id>
+            <name>Flam Winery</name>
+            <contactPhone>054-7890123</contactPhone>
+            <address>Eshtaol, Israel</address>
+            <email>flamwinery@gmail.com</email>
+        </producer>
+    </producers>
+    <wines>
+        <wine>
+            <catalogNumber>21</catalogNumber>
+            <producerId>P005</producerId>
+            <name>Merlot Reserve</name>
+            <productionYear>2020</productionYear>
+            <pricePerBottle>35</pricePerBottle>
+            <sweetnessLevel>DRY</sweetnessLevel>
+            <description>Elegant red wine with plum and chocolate notes.</description>
+            <productImage>merlot_reserve.jpg</productImage>
+            <wineTypeId>007</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>22</catalogNumber>
+            <producerId>P005</producerId>
+            <name>Chardonnay Estate</name>
+            <productionYear>2021</productionYear>
+            <pricePerBottle>28</pricePerBottle>
+            <sweetnessLevel>SEMI_DRY</sweetnessLevel>
+            <description>Rich and creamy white wine with citrus and vanilla hints.</description>
+            <productImage>chardonnay_estate.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>23</catalogNumber>
+            <producerId>P007</producerId>
+            <name>Zinfandel Heritage</name>
+            <productionYear>2019</productionYear>
+            <pricePerBottle>40</pricePerBottle>
+            <sweetnessLevel>DRY</sweetnessLevel>
+            <description>Bold red wine with spicy blackberry and pepper flavors.</description>
+            <productImage>zinfandel_heritage.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+        <wine>
+            <catalogNumber>24</catalogNumber>
+            <producerId>P007</producerId>
+            <name>Riesling Classic</name>
+            <productionYear>2022</productionYear>
+            <pricePerBottle>22</pricePerBottle>
+            <sweetnessLevel>SEMI_SWEET</sweetnessLevel>
+            <description>Refreshing white wine with floral aromas and citrus undertones.</description>
+            <productImage>riesling_classic.jpg</productImage>
+            <wineTypeId>003</wineTypeId>
+        </wine>
+    </wines>
+</wineryData>
